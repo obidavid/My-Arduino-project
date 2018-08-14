@@ -270,7 +270,7 @@ void Vizfogyasztas()
           valoszinusithetoen tulterheli a dinamikus memoriat ami tobbnyire lefagyaszthatja 
           az Arduino-t, ezert kenytelenek vagyunk valamit kikapcsolni ebben az esetben
           az SD kartyara valo irast valasztottam mivel ezt hasznalja a memoria legnagyobb
-          reszet. A rendszernek e problemajat egy nagyobb t·rhellyel rendelkezo Arduino-ra 
+          reszet. A rendszernek e problemajat egy nagyobb t√°rhellyel rendelkezo Arduino-ra 
           (pl.Arduino Mega) valo cserevel megoldhatjuk es akkor mindent hasznalhatunk.
           */
           /*
